@@ -1,0 +1,63 @@
+.bgimg{
+	height: 1100px;
+	width: 100%;
+	background-image: url('momhome.jpg');
+	background-size: cover;
+}
+.headerset{
+	padding-top: 400px;
+}
+.headerset h1{
+	font-weight: bold;
+	font-size: 88px;
+	text-align: center;
+	color: white;
+}
+.navbar{
+	height: 250px;
+}
+.navbar-brand{
+	font-size: 45px;
+	height: 150px;
+	width: 600px;
+	border-radius: 120px;
+	background-color: white;
+	margin-left: -70px;
+	text-align: center;
+	padding-top: 20px;
+}
+.nav-item{
+	font-size: 24px;
+}
+.designsec{
+	padding-top:150px;
+}
+.designsec h1{
+	padding-bottom: 100px;
+	padding-top: 50px;
+}
+.designing{
+	padding-top: 150px;
+	background: pink;
+	background:linear-gradient(to bottom,gray 0%,pink 100%)fixed; 
+
+}
+.designsec img{
+	height: 400px;
+	width: 250px;
+}
+.designsec img:hover{
+
+}
+.ownerimg{
+	height: 500px;
+	width: 500px;
+	border: 5px solid white;
+	border-radius: 250px;
+}
+.footer{
+	margin-top: 50px;
+	padding-top: 100px;
+	height: 300px;
+	color: white;
+}
